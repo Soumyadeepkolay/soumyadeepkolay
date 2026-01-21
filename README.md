@@ -1,4 +1,4 @@
-# 💫 About Me:
+👋 Hi, I’m Soumyadeep Kolay
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxiOGpwaTY1MHh4MjN2ajJjOTJyb3o2dnVqbjRjdGw0bWN4YndndCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oaDcc0LTCuIAiGYrzn/giphy.gif" width="380" />
