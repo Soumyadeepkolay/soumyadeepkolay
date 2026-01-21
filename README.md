@@ -1,7 +1,9 @@
 👋 Hi, I’m Soumyadeep Kolay
 
 <p align="center">
-  <img src="file:///var/folders/l1/k1tt67ts4wjdt7ybhyn1h10h0000gn/T/TemporaryItems/NSIRD_screencaptureui_cA08LS/Screenshot%202026-01-21%20at%206.47.13%E2%80%AFPM.png" width="380" />
+  <img width="802" height="387" alt=" image" src="https://github.com/user-attachments/assets/ed6b5cd9-719a-48db-affb-d7ca99ec619f" />
+
+  
 </p>
 
 <br><br>🎓 Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Deep Learning<br>🤖 Passionate about building intelligent systems using Python, Computer Vision, and Signal Processing<br>📊 Experienced in projects involving CNNs, RNNs, LSTMs, CRNNs, and real-time recognition systems<br><br><br>🛠️ Tech Stack<br>	•	Languages: Python, C, C++<br>	•	ML/DL: TensorFlow, Keras, PyTorch, scikit-learn<br>	•	Computer Vision: OpenCV<br>	•	Tools: Jupyter Notebook, Git, VS Code<br><br><br>📫 Let’s connect and collaborate!<br>I enjoy learning, experimenting, and turning ideas into impactful projects.
