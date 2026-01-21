@@ -18,4 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumyadeepkolay&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<img src="https://raw.githubusercontent.com/soumyadeepkolay/soumyadeepkolay/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
