@@ -1,7 +1,9 @@
 👋 Hi, I’m Soumyadeep Kolay
 
 <p align="center">
-  <img width="500" height="750" alt=" image" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+
+  <img width="500" height="750" alt=" image" src="https://github.com/user-attachments/assets/a09f853a-bf02-4d32-9e80-88f4c32fae44" />
 
   
 </p>
